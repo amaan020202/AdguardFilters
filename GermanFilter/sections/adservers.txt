@@ -6,7 +6,7 @@
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
-!
+!create soe new recipies which would definitely work 
 ||addefend-platform.com^
 ||remp-campaign.golem.de^
 ||web-ads.10sq.net^
@@ -40,8 +40,8 @@
 ||emmi-findet.de^
 ||app.bidhead.net^$third-party
 ||widgets.tracdelight.io^$third-party
-||trbo.com^$third-party
-||adquality.ch^$third-party
+||trbo.com^$third-party -
+||adquality.ch^$third-party -
 ||sv.sheego.de^$third-party
 ||azol.de^$third-party
 ||twiago.com^$third-party
